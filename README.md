@@ -1,22 +1,31 @@
-# React + Vite
+# Project Setup Instructions
+----------------------------
 
+## Install Project Dependencies
+* Open a terminal.
+* Navigate to your project directory.
+* Run the following command to install the necessary packages:
+`npm i
+`
 
-before excuting need to download pakage of this project:
-  `npm i`
-after this completion run another project
+Wait for the installation to complete.
 
---------------------------
-first of all run backend of this project:
-open terminal and type
-   `npm run dev:backend`
-click enter and wait for message and after successful running the backend 
+## Start the Backend
 
-------------------------------------------------
-open new terminal and run frontend of this project:
+* In the terminal, run the command to start the backend server:
+`npm run dev:backend`
+* Wait for a message indicating the backend server is running successfully.
 
-open terminal and type
-   `npm run dev:frontend`
+  
+## Start the Frontend
 
-click enter and wait for an ip after that click and give ip or link and now,
-it is ready to use    
+* Open a new terminal window.
+* Navigate to your project directory if not already there.
+* Run the command to start the frontend server:
+`npm run dev:frontend`
+* Wait for an IP address or link to appear in the terminal.
+  
+## Access the Application
 
+* Click on the provided IP address or link.
+* Your application is now ready to use.
