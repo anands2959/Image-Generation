@@ -13,7 +13,7 @@ const LandingPage = () => {
     <div style={landingPageStyle}>
       <Logo />
       <div style={contentContainerStyle}>
-        <h1 style={headerStyle}>Your App Name</h1>
+        <h1 style={headerStyle}>Quantum Canvas</h1>
         <p style={descriptionStyle}>Generate beautiful images with ease.</p>
         <button style={getStartedButtonStyle} onClick={handleGetStartedClick}>
           Get Started
